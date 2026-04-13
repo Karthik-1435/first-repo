@@ -1,2 +1,4 @@
 aws >>>>amazon web serivces 
 by using aws we can generate ec2 servers(instances)
+when we install jenkins and connect the servers ci/cd pipelines compulsory we should take c7i-flex.large(instance type) 
+Why bcoz 70% operations do in jenkins it share more storage.
